@@ -8,7 +8,7 @@ Olá! Eu sou Gabriel, um programador front-end apaixonado por criar experiência
 - React.js
 - Git
 - Php
-- Sql
+- SQL
 
 ## Projetos Destacados 🌟
 - [Portifólio](https://vaconer.github.io/portifolio/): Este é um site de portifólio feito para armazenar meus projetos.
