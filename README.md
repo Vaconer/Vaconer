@@ -8,6 +8,7 @@ Olá! Meu nome é Gabriel, sou um desenvolvedor front-end apaixonado por criar e
 - <img src="https://img.icons8.com/color/24/000000/css3.png" alt="CSS3"> CSS3 <br>
 - <img src="https://img.icons8.com/color/24/000000/javascript--v1.png" alt="JavaScript"> JavaScript <br>
 - <img src="https://img.icons8.com/color/24/000000/react-native.png" alt="React.js"> React.js <br>
+- <img src="https://img.icons8.com/color/24/000000/bootstrap.png" alt="Bootstrap"> Bootstrap <br>
 - <img src="https://img.icons8.com/officel/24/000000/php-logo.png" alt="PHP"> PHP <br>
 - <img src="https://img.icons8.com/material-rounded/24/000000/sql.png" alt="SQL"> SQL <br>
 
