@@ -25,6 +25,10 @@ Olá! Meu nome é Gabriel, sou um desenvolvedor front-end apaixonado por criar e
 - Responsive Web Design
 - Single Page Applications (SPAs)
 
+| <a href="https://github.com/Vaconer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vaconer&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub de Vaconer" /></a> | <a href="https://github.com/Vaconer"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaconer&layout=compact&theme=dracula&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
 
 ## Contato 📬
 - 📧 Email: gabrielmartinssousa@gmail.com
