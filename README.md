@@ -27,7 +27,7 @@ Olá! Meu nome é Gabriel, sou um desenvolvedor front-end apaixonado por criar e
 
 ## Estatísticas do Repositório
 
-| <a href="https://github.com/Vaconer"><img align="center" src="https://github-readme-stats.vercel.app/api username=Vaconer&show_icons=true&theme=dracula&hide_border=true&hide=stars,issues,contribs,prs,issues" alt="Estatísticas do GitHub de Vaconer" /></a> | <a href="https://github.com/Vaconer"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaconer&layout=compact&theme=dracula&hide_border=true" /></a> |
+| <a href="https://github.com/Vaconer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vaconer&show_icons=true&theme=dracula&hide_border=true&hide=stars,issues,contribs,prs" alt="Estatísticas do GitHub de Vaconer" /></a> | <a href="https://github.com/Vaconer"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaconer&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## Contato 📬
