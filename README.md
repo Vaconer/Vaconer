@@ -1,27 +1,29 @@
-# Bem-vindo ao meu GitHub! 🚀
+# Bem-vindo ao meu GitHub! 👋
 
-Olá! Eu sou Gabriel, um programador front-end apaixonado por criar experiências web incríveis.
+Olá! Meu nome é Gabriel, sou um desenvolvedor front-end apaixonado por criar experiências web de alta qualidade.
 
-## Habilidades 💻
-- HTML 
-- CSS3
-- JavaScript
-- Bootstrap
+## Habilidades 🚀
+- HTML5
+- CSS3 / SASS
+- JavaScript (ES6+)
 - React.js
-- Git
-- Php
-- SQL
+- Bootstrap
+- Git / GitHub
+- PHP
+- SQL / MySQL
 
 ## Projetos Destacados 🌟
-- [Portifólio](https://vaconer.github.io/portifolio/): Este é um site de portifólio feito para armazenar meus projetos.
+- [Portfólio](https://vaconer.github.io/portifolio/): Meu portfólio pessoal, onde demonstro meu trabalho e projetos recentes.
 
 ## Tecnologias e Tendências 🛠️
 - Web Components
-- PWAs
+- Progressive Web Apps (PWAs)
+- Responsive Web Design
+- Single Page Applications (SPAs)
 
-## Contato 📧📱
-- Email: gabrielmartinssousa@gmail.com
-- Whatsapp: 99858-6038
-- Redes Sociais: [LinkedIn](https://www.linkedin.com/in/gabriel-martins-3b76b122a/) 
+## Contato 📬
+- 📧 Email: gabrielmartinssousa@gmail.com
+- 🔗 LinkedIn: [Gabriel Martins](https://www.linkedin.com/in/gabriel-martins-3b76b122a/)
+- 📱 Telefone: 99858-6038
 
-![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+Fique à vontade para explorar meus repositórios e entre em contato se quiser colaborar ou discutir sobre projetos interessantes!
