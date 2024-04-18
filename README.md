@@ -3,7 +3,9 @@
 Olá! Eu sou Gabriel, um programador front-end apaixonado por criar experiências web incríveis.
 
 ## Habilidades 💻
-- HTML5, CSS3, JavaScript
+- HTML5 ![HTML5](https://www.stickpng.com/img/icons-logos-emojis/tech-companies/html5-logo)
+- CSS3
+- JavaScript
 - Bootstrap
 - React.js
 - Git
