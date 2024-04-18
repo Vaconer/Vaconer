@@ -5,13 +5,13 @@ Olá! Meu nome é Gabriel, sou um desenvolvedor front-end apaixonado por criar e
 ## Habilidades 🚀
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"><br>HTML
-  <img align="center" alt="CSS3" height="30" width="40" src="https://img.icons8.com/color/48/000000/css3.png"><br>CSS3
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://img.icons8.com/color/48/000000/javascript--v1.png"><br>JavaScript
-  <img align="center" alt="React.js" height="30" width="40" src="https://img.icons8.com/color/48/000000/react-native.png"><br>React.js
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png"><br>Bootstrap
-  <img align="center" alt="PHP" height="30" width="40" src="https://img.icons8.com/officel/48/000000/php-logo.png"><br>PHP
-  <img align="center" alt="SQL" height="30" width="40" src="https://img.icons8.com/ios-filled/50/000000/sql.png"><br>SQL
+  <img align="center" alt="HTML" height="30" width="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://img.icons8.com/color/48/000000/css3.png">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://img.icons8.com/color/48/000000/javascript--v1.png">
+  <img align="center" alt="React.js" height="30" width="40" src="https://img.icons8.com/color/48/000000/react-native.png">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png">
+  <img align="center" alt="PHP" height="30" width="40" src="https://img.icons8.com/officel/48/000000/php-logo.png">
+  <img align="center" alt="SQL" height="30" width="40" src="https://img.icons8.com/ios-filled/50/000000/sql.png">
 </div>
 
 ## Projetos Destacados 🌟
