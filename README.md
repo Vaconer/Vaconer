@@ -17,7 +17,7 @@ Olá! Meu nome é Gabriel, sou um desenvolvedor front-end apaixonado por criar e
 ## Projetos Destacados 🌟
 - [Portfólio](https://vaconer.github.io/portifolio/): Meu portfólio pessoal, onde demonstro meu trabalho e projetos recentes.
 
-![Portfólio](https://s4.ezgif.com/tmp/ezgif-4-c061ce7424.gif)
+<img src="https://s4.ezgif.com/tmp/ezgif-4-c061ce7424.gif" alt="Portfólio" width="300" style="border-radius: 10px;">
 
 ## Tecnologias e Tendências 🛠️
 - Web Components
