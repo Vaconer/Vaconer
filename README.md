@@ -30,13 +30,6 @@ Olá! Meu nome é Gabriel, sou um desenvolvedor front-end apaixonado por criar e
 | <a href="https://github.com/Vaconer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vaconer&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub de Vaconer" /></a> | <a href="https://github.com/Vaconer"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaconer&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-| <a href="https://github.com/Vaconer"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Vaconer&layout=compact&theme=dracula&hide_border=true" alt="Estatísticas do Wakatime de Vaconer" /></a> | <a href="https://github.com/Vaconer"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vaconer&repo=repo-1&theme=dracula&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-| <a href="https://github.com/Vaconer"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vaconer&repo=repo-2&theme=dracula&hide_border=true" /></a> | <a href="https://github.com/Vaconer"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vaconer&repo=repo-3&theme=dracula&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
 ## Contato 📬
 - 📧 Email: gabrielmartinssousa@gmail.com
 - 🔗 LinkedIn: [Gabriel Martins](https://www.linkedin.com/in/gabriel-martins-3b76b122a/)
