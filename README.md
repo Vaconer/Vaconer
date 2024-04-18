@@ -3,13 +3,12 @@
 Olá! Meu nome é Gabriel, sou um desenvolvedor front-end apaixonado por criar experiências web de alta qualidade.
 
 ## Habilidades 🚀
-- HTML ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
-- CSS3 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-- JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
-- React.js ![React.js](https://img.icons8.com/color/48/000000/react-native.png)
-- PHP ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png)
-- SQL ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png)
-
+- ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML 
+- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3 
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript 
+- ![React.js](https://img.icons8.com/color/48/000000/react-native.png) React.js 
+- ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png) PHP 
+- ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) SQL 
 
 ## Projetos Destacados 🌟
 - [Portfólio](https://vaconer.github.io/portifolio/): Meu portfólio pessoal, onde demonstro meu trabalho e projetos recentes.
