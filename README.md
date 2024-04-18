@@ -24,4 +24,4 @@ Olá! Eu sou Gabriel, um programador front-end apaixonado por criar experiência
 - Whatsapp: 99858-6038
 - Redes Sociais: [LinkedIn](https://www.linkedin.com/in/gabriel-martins-3b76b122a/) 
 
-![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
