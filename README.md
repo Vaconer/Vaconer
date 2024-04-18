@@ -3,7 +3,7 @@
 Olá! Eu sou Gabriel, um programador front-end apaixonado por criar experiências web incríveis.
 
 ## Habilidades 💻
-- HTML
+- HTML ![HTML5](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkYjPO7FLc0ZS1qptK0lBtACZChBRH-D72nJI3UoX67w&s)
 - CSS3
 - JavaScript
 - Bootstrap
