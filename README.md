@@ -25,8 +25,17 @@ Olá! Meu nome é Gabriel, sou um desenvolvedor front-end apaixonado por criar e
 - Responsive Web Design
 - Single Page Applications (SPAs)
 
-| <a href="https://github.com/Vaconer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vaconer&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub de Vaconer" /></a> | <a href="https://github.com/Vaconer"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaconer&layout=compact&theme=dracula&hide_border=true" /></a> |
-| ------------- | ------------- |
+## Estatísticas do Repositório
+
+| Métrica          | Distintivo                                                                                         |
+|------------------|---------------------------------------------------------------------------------------------------|
+| Estrelas         | ![GitHub stars](https://img.shields.io/github/stars/Vaconer/Vaconer?style=social)                |
+| Forks            | ![GitHub forks](https://img.shields.io/github/forks/Vaconer/Vaconer?style=social)                |
+| Issues Abertas   | ![GitHub issues](https://img.shields.io/github/issues/Vaconer/Vaconer)                            |
+| Pull Requests    | ![GitHub pull requests](https://img.shields.io/github/issues-pr/Vaconer/Vaconer)                  |
+| Último Commit    | ![GitHub last commit](https://img.shields.io/github/last-commit/Vaconer/Vaconer)                  |
+| Licença          | ![GitHub license](https://img.shields.io/github/license/Vaconer/Vaconer)                          |
+
 
 
 ## Contato 📬
