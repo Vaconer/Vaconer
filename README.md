@@ -1,4 +1,4 @@
-# Bem-vindo ao meu GitHub!
+# Bem-vindo ao meu GitHub! 🚀
 
 Olá! Eu sou Gabriel, um programador front-end apaixonado por criar experiências web incríveis.
 
@@ -20,6 +20,8 @@ Olá! Eu sou Gabriel, um programador front-end apaixonado por criar experiência
 - PWAs
 
 ## Contato 📧📱
-- Email: [gabrielmartinssousa@gmail.com]
+- Email: gabrielmartinssousa@gmail.com
 - Whatsapp: 99858-6038
 - Redes Sociais: [LinkedIn](https://www.linkedin.com/in/gabriel-martins-3b76b122a/) 
+
+![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
