@@ -20,10 +20,13 @@ Olá! Meu nome é Gabriel, sou um desenvolvedor front-end apaixonado por criar e
 ![ezgif-6-f796bb7c40](https://github.com/Vaconer/Vaconer/assets/106969683/0a86b89d-53fb-45db-83f7-f830567275f2)
 
 ## Tecnologias e Tendências 🛠️
-- Web Components
-- Progressive Web Apps (PWAs)
-- Responsive Web Design
-- Single Page Applications (SPAs)
+- **React**
+- **JavaScript (ES6+)**
+- **HTML5**
+- **CSS3**
+- **Design Responsivo**
+- **Single Page Applications (SPAs)**
+- **Integração com APIs**
 
 ## Estatísticas do Repositório
 
